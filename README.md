@@ -1,2 +1,1 @@
-# Demo
-Demo project using in Java
+This is a INSTRUCTION File
