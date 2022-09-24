@@ -1,0 +1,78 @@
+> github
+
+. Registration
+
+https://github.com/
+
+>> https://git-scm.com/downloads
+..................................................................
+
+AGILE
+Q.CREATE A NEW PROJECT " HIRING PROCESS" ON KANBAN BOARD
+Q. CHOSE COMPANY-MANAGED PROJECT
+Q. ADD 6 ISSUES(TASK) IN THE BACKLOG
+
+> WRITTEN EXAM
+> SHORTLISTING
+> INTERVIEW
+> RESULT
+> JOINING LETTER
+> INDUCTION PROGRAM
+
+tO DO IS THE BACKLOG IN THE BOARD
+
+
+
+
+
+
+vcs: git, bitbucket, svn
+
+repository
+
+GITHUB                                             GIT
+
+REMOTE CENTRAL SERVER				software
+COLLABORATE UR PROJECTS                        local m/c
+version control system                        cli
+
+
+
+
+Q. CREATE A NEW project repo on github
+
+commit changes ::::::save::: : new file, edit on existing,delete
+
+
+Q. EDIT A CREATED FILE ON GITHUB
+Q. EDIT THE README
+COMMENT,,,,,,,,,,,COMMIT CHANGES
+OBSERVE THE NO. OF COMMITS 
+
+Q.CREATE A FILE ON GITHUB
+COMMIT CHANGES
+Q. NOW, UPLOAD A NEW FILE FROM UR
+ SYSTEM.....COMMIT CHANGES
+
+
+
+Q. CREATE BRANCH B1 FROM MAIN
+Q.UPLOAD A FILE ON B1 ..COMMIT CHANGES
+OBSERVE THE NO. OF FILES IN B1
+
+Q.UPLOAD A FILE ON MAIN ..COMMIT CHANGES
+OBSERVE THE NO. OF FILES IN MAIN
+
+MERGING
+
+BRANCH MUST BE AHEAD
+
+IT CAN BE DONE VIA PULL REQUEST [PR]  CONFIRM MERGE
+
+
+
+
+
+
+
+
