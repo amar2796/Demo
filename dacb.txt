@@ -1,0 +1,179 @@
+ISSUES  [6 FEATURES]
+
+1.  EPIC
+
+4. STORY [DIVIDED INTO SUB-TASK]
+
+1  TASK
+
+1  BUG
+
+2 COMPONENT
+
+2 VERSION WITH RELEASE DATE
+
+PRODUCT BACKLOG:::::::::::::
+
+SPRINT PLANNING,  SPRINT BACKLOG:::::::::
+IN THE ENTIRE SPRINT BACKLOG, YOU HAVE TO APPLY THE SAME 
+PARAMETER SETTING FOR ALL THE STORIES...........KINDLY COMPLETE.....
+
+STORY [DIVIDED INTO SUB-TASK]
+
+> DESCRIPTION 
+
+> LINK COMPONENT, VERSION, EPIC
+
+> CHECK PRIORITY
+
+> CHECK SPRINT NUMBER
+
+>>>>>>>>>>>>PROVIDE STORY POINT>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+
+OPEN ONE STORY IN NEW TAB
+
+LINK THE COMPONENTS
+
+LINK THE VERSIONS
+
+LINK THE EPIC
+
+CHECK THE PRIORITY N SPRINT NO.
+
+
+
+
+
+
+
+DESCRIPTION
+
+As a user, I want to......................
+so that I ...................................
+
+PARAMETER TO ESTIMATE THE STORY
+
+STORY POINT: SIZE OF THE STORY, EFFORTS NEEDED, 
+             COMPLEXITY OF THE STORY
+
+FIB. SERIES : (0, 1 ,2, 3, 5, 8,13,...........)
+
+NEW USER CAN REGISTER :5
+ 
+>>>>> now , u have to divide the story into sub-task
+[ create a 2 sub-task for this story]
+
+
+
+new user can register
+
+>> create User profile page 
+>> validate and complete the registeration page
+
+
+
+open the sub-task
+
+> Provide the original estimate field in h
+ eg 2h, 4h
+
+> Also link the components n versions on the sub-tasks
+
+
+>>>>>>U have to repeat the same for the another 
+      sub-task created in the story.
+
+
+
+
+
+
+
+> BUG 
+
+...............................LINK THE ISSUE
+
+BLOCK,,,,, STORY SELECT,,,,,,,,,,,,,,,,,,LINK
+
+IN CASE YOU HAVE DEPENDENT ISSUES [STORY]
+
+.............................LINK COMPONENT , VERSION
+
+
+....................CHECK PRIORITY N SPRINT NUMBER
+---------------------------------------------------------------
+
+
+TASK :::::::::::INDEPENDENT ACTIVITY
+
+
+CHANGE ONLY THESE TWO FIELDS
+
+VERSION, ORIGINAL ESTIMATE 
+
+===================================================================
+IN THE ENTIRE SPRINT BACKLOG, YOU HAVE TO APPLY THE SAME 
+PARAMETER SETTING FOR ALL THE STORIES...........KINDLY COMPLETE.....
+====================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
